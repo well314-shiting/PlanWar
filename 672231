@@ -1,8 +1,0 @@
-displayName: "planwar"
-name: "pwq"
-author: "wailting"
-main: "example.ExampleJavaMod"
-description: "A Mindustry Java mod template."
-version: 0.0.5.5
-minGameVersion: 145
-java: true
