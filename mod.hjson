@@ -1,8 +1,8 @@
-displayName: "planwar"
-name: "pwq"
-author: "wailting"
-main: "plw.ExampleJavaMod"
-description: "A Mindustry Java mod template."
-version: 0.0.5.5
-minGameVersion: 145
-java: true
+displayName：“planwar”
+名称：“pwq”
+作者：“哭泣
+main："example.ExampleJavaMod"
+描述："M industry Java mod模板。"
+版本：0.0.5.5
+minGameVersion:145
+Java:true
